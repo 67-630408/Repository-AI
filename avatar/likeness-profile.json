@@ -1,0 +1,63 @@
+{
+  "id": "maunakea-buddy-likeness",
+  "version": "0.1.0",
+  "status": "DRAFT - awaiting owner approval",
+  "subject": {
+    "summary": "Heavyset older man, late 50s to mid 60s, thick bright white hair swept back, salt-and-pepper mustache, round full face with rosy cheeks, black rectangular glasses",
+    "age_appearance": "late 50s to mid 60s",
+    "skin": {
+      "tone": "light-medium with a warm olive-tan base",
+      "undertone": "warm, with a natural rosy-ruddy flush on cheeks and nose",
+      "texture": "realistic mature skin, visible pores, light creases at the eyes, no airbrushing"
+    },
+    "hair": {
+      "color": "bright silver-white, slightly greyer at the temples",
+      "style": "thick and full, short on the sides, longer on top, combed straight back off the forehead",
+      "hairline": "full, slightly rounded"
+    },
+    "facial_hair": {
+      "mustache": "neatly trimmed medium mustache, salt-and-pepper with a light brown tint",
+      "chin": "small sparse grey patch under the lower lip, light stubble on chin and jaw"
+    },
+    "face": {
+      "shape": "wide, round face with full cheeks and a broad soft jawline",
+      "chin_neck": "full double chin, thick neck",
+      "eyes": "dark brown, slightly hooded heavy lids",
+      "brows": "medium thickness, grey-brown, fairly straight",
+      "nose": "broad nose with a rounded, prominent tip, slightly rosy",
+      "lips": "medium fullness, usually closed",
+      "ears": "medium-large, close to the head",
+      "default_expression": "calm, confident, slight closed-mouth half-smile"
+    },
+    "body": {
+      "build": "very large, heavyset, plus-size build",
+      "torso": "broad shoulders, wide round chest and belly",
+      "lower_body": "very wide hips and full thighs",
+      "arms": "thick arms",
+      "height": "average height",
+      "posture": "upright, relaxed"
+    },
+    "eyewear": {
+      "primary": "matte black thick rectangular frames (Oakley Holbrook style) with small silver rivet dots at the hinges, clear lenses with a faint blue-violet anti-glare reflection",
+      "alternate": "thinner dark brown tortoiseshell rounded-rectangle frames with blue-violet anti-glare lenses",
+      "rule": "always wearing glasses unless the scene says otherwise"
+    },
+    "accessories": ["wristwatch on the left wrist"],
+    "signature_gestures": ["shaka (hang-loose) hand sign", "peace / V sign", "two-finger V under the chin"],
+    "wardrobe_defaults": [
+      "light blue or lavender short-sleeve oxford button-down shirt",
+      "khaki chinos with a black leather belt",
+      "black suit, white shirt, teal plaid tie (formal)",
+      "dark green crew-neck t-shirt (casual)"
+    ]
+  },
+  "negative": [
+    "thin or slim body", "young face", "dark hair", "blonde hair", "bald", "full beard",
+    "no glasses", "round wire glasses", "sunglasses", "pale or very fair skin", "dark skin",
+    "airbrushed plastic skin", "cartoon", "exaggerated caricature", "distorted hands", "extra fingers"
+  ],
+  "render_defaults": {
+    "style": "photorealistic, natural lighting, 50mm lens, sharp focus on the face",
+    "consistency_note": "When the tool accepts reference images, also attach the owner's reference photos (front face, headshot, full body, profile)."
+  }
+}
